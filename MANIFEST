@@ -9,6 +9,5 @@ Makefile.PL
 README
 lib/Convert/Base32/Crockford.pm
 lib/Convert/Base32/Crockford.pod
-t/000-compile-modules.t
 t/base32.t
 t/release-pod-syntax.t
